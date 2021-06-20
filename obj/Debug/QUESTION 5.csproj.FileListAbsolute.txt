@@ -1,0 +1,10 @@
+C:\Users\NDYALIVANAZ\source\repos\QUESTION 5\bin\Debug\QUESTION 5.exe.config
+C:\Users\NDYALIVANAZ\source\repos\QUESTION 5\bin\Debug\QUESTION 5.exe
+C:\Users\NDYALIVANAZ\source\repos\QUESTION 5\bin\Debug\QUESTION 5.pdb
+C:\Users\NDYALIVANAZ\source\repos\QUESTION 5\obj\Debug\QUESTION 5.csprojAssemblyReference.cache
+C:\Users\NDYALIVANAZ\source\repos\QUESTION 5\obj\Debug\QUESTION_5.Form1.resources
+C:\Users\NDYALIVANAZ\source\repos\QUESTION 5\obj\Debug\QUESTION_5.Properties.Resources.resources
+C:\Users\NDYALIVANAZ\source\repos\QUESTION 5\obj\Debug\QUESTION 5.csproj.GenerateResource.cache
+C:\Users\NDYALIVANAZ\source\repos\QUESTION 5\obj\Debug\QUESTION 5.csproj.CoreCompileInputs.cache
+C:\Users\NDYALIVANAZ\source\repos\QUESTION 5\obj\Debug\QUESTION 5.exe
+C:\Users\NDYALIVANAZ\source\repos\QUESTION 5\obj\Debug\QUESTION 5.pdb
